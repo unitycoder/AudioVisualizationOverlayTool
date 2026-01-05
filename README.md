@@ -1,2 +1,2 @@
 # AudioVisualizationOverlayTool
-AVOT (AudioVisualizationOverlayTool)
+AVOT (AudioVisualizationOverlayTool) for Streamers etc.
